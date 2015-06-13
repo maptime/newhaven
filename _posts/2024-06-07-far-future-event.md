@@ -1,8 +1,7 @@
 ---
 layout: event
 category: event
-title: Meetup event
-rsvp: http://procatinator.com/
+title: TBA
 ---
 
-You should add things here.
+TBA comming soon!
